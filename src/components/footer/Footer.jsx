@@ -7,7 +7,7 @@ import {BsWhatsapp} from 'react-icons/bs'
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer__logo'>Ignacio</a>
+      <a href="#" className='footer__logo'>IGNACIO</a>
 
       <ul className='permalinks'>
          <li><a href="#">Home</a></li>

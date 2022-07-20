@@ -19,9 +19,9 @@ const Footer = () => {
          <li><a href="#contact"></a></li>
       </ul>
       <div className="footer__socials">
-        <a href="https://facebook.com"><BsTelegram/></a>
-        <a href="https://Telegram.com"><BsGithub/></a>
-        <a href="https://whatsapp.com"><BsWhatsapp/></a>
+        <a href="https://t.me/IgnacioJIRD"><BsTelegram/></a>
+        <a href="https://github.com/JJIRD"><BsGithub/></a>
+        <a href="https://wa.me/+50588642203"><BsWhatsapp/></a>
       </div>
       <div className="footer__copyright">
         <small>&copy; IGNACIO. All rights reserved</small>
